@@ -10,4 +10,4 @@ A este componente está organizado em 7 (sete) unidades:
 * Semana 6 – Fundamentos de JavaScript;
 * Semana 7 –Validação de Formulários e Manipulação do DOM.
 
- __Todo agradecimento professor Pedro Clarindo da Silva Neto da disciplina.__
+ __Todo agradecimento ao professor Pedro Clarindo da Silva Neto da disciplina.__
