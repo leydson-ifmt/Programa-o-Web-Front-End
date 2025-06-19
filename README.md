@@ -9,3 +9,5 @@ A este componente está organizado em 7 (sete) unidades:
 * Semana 5 – Design Responsivo ;
 * Semana 6 – Fundamentos de JavaScript;
 * Semana 7 –Validação de Formulários e Manipulação do DOM.
+
+ __Todo agradecimento professor Pedro Clarindo da Silva Neto da disciplina.__
